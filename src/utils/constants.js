@@ -11,5 +11,6 @@ export const API_OPTIONS = {
       "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMTE1ZmVjZGRhYWUzYzZlNTljODAzNjI3YmJjYTQ3NiIsInN1YiI6IjY0ZmFiOGM5NDM0OTRmMDhjNmVmMTgzOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.QTPSwE0w--Ob0QbOLV7nVz-FltQUn0RNnpywSjlXmtE",
   },
 };
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500";
 
 // const url = "https://api.themoviedb.org/3/movie/now_playing?page=1"; // NowPlayingMovies

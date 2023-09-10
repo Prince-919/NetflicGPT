@@ -5,6 +5,7 @@ import { useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { addUser, removeUser } from "../utils/userSlice";
 import { LOGO } from "../utils/constants";
+import { RiLogoutBoxRFill } from "react-icons/ri";
 
 const Header = () => {
   const navigate = useNavigate();
@@ -52,8 +53,8 @@ const Header = () => {
           />
           <button
             onClick={hanldeSignOut}
-            className="text-gray-200  bg-red-600 p-1 rounded-full">
-            (Sign Out)
+            className="text-gray-200 text-3xl bg-red-600 p-1 rounded">
+            <RiLogoutBoxRFill />
           </button>
         </div>
       )}
