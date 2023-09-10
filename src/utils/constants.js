@@ -12,4 +12,4 @@ export const API_OPTIONS = {
   },
 };
 
-const url = "https://api.themoviedb.org/3/movie/now_playing?page=1";
+// const url = "https://api.themoviedb.org/3/movie/now_playing?page=1"; // NowPlayingMovies
