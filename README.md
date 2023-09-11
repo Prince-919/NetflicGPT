@@ -33,6 +33,8 @@
 - build Movie Card
 - TMDB Image CDN URL
 - usePopularMovies Custom hook
+- useTopRatedMovies Custom hook
+- useUpcomingMovies Custom hook
 
 # Features:
 
