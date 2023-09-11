@@ -30,4 +30,6 @@ export const SUPPORTED_LANGUAGES = [
   },
 ];
 
+export const OPENAI_KEY = "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";
+
 // const url = "https://api.themoviedb.org/3/movie/now_playing?page=1"; // NowPlayingMovies
